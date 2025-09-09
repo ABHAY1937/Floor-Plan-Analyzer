@@ -1,0 +1,6 @@
+train: /home/abhay/Music/CV_on_architectural_elements/auto_annotations.v1i.yolov9/train/
+val: /home/abhay/Music/CV_on_architectural_elements/auto_annotations.v1i.yolov9/valid/
+test: /home/abhay/Music/CV_on_architectural_elements/auto_annotations.v1i.yolov9/test/
+
+nc: 1
+names: ['door']
